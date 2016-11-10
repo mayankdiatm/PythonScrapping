@@ -81,11 +81,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myFile.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myFile.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myFile.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -129,6 +139,7 @@
         <option value="$PROJECT_DIR$/closures.py" />
         <option value="$PROJECT_DIR$/myFile.py" />
         <option value="$PROJECT_DIR$/myMath.py" />
+        <option value="$PROJECT_DIR$/database.py" />
       </list>
     </option>
   </component>
@@ -187,24 +198,7 @@
       <pane id="Scratches" />
     </panes>
   </component>
-  <component name="RunManager" selected="Python.myFile">
-    <configuration default="false" name="newSingleton" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="practicePython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newSingleton.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.database">
     <configuration default="false" name="generators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,6 +263,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="practicePython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="database" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="practicePython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -408,19 +419,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.newSingleton" />
-      <item index="1" class="java.lang.String" itemvalue="Python.generators" />
-      <item index="2" class="java.lang.String" itemvalue="Python.iterator" />
-      <item index="3" class="java.lang.String" itemvalue="Python.closures" />
-      <item index="4" class="java.lang.String" itemvalue="Python.myFile" />
+      <item index="0" class="java.lang.String" itemvalue="Python.generators" />
+      <item index="1" class="java.lang.String" itemvalue="Python.iterator" />
+      <item index="2" class="java.lang.String" itemvalue="Python.closures" />
+      <item index="3" class="java.lang.String" itemvalue="Python.myFile" />
+      <item index="4" class="java.lang.String" itemvalue="Python.database" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.myFile" />
-        <item index="1" class="java.lang.String" itemvalue="Python.closures" />
-        <item index="2" class="java.lang.String" itemvalue="Python.iterator" />
-        <item index="3" class="java.lang.String" itemvalue="Python.generators" />
-        <item index="4" class="java.lang.String" itemvalue="Python.newSingleton" />
+        <item index="0" class="java.lang.String" itemvalue="Python.database" />
+        <item index="1" class="java.lang.String" itemvalue="Python.myFile" />
+        <item index="2" class="java.lang.String" itemvalue="Python.closures" />
+        <item index="3" class="java.lang.String" itemvalue="Python.iterator" />
+        <item index="4" class="java.lang.String" itemvalue="Python.generators" />
       </list>
     </recent_temporary>
   </component>
@@ -683,6 +694,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
           <folding />
         </state>
       </provider>
