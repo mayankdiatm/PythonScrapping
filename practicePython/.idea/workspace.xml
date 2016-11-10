@@ -21,31 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="boundMethod.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boundMethod.py">
+      <file leaf-file-name="abstractClass.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/abstractClass.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="staticMethos.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/staticMethos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="classMethos.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/classMethos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -79,6 +59,7 @@
         <option value="$PROJECT_DIR$/boundMethod.py" />
         <option value="$PROJECT_DIR$/classMethos.py" />
         <option value="$PROJECT_DIR$/staticMethos.py" />
+        <option value="$PROJECT_DIR$/abstractClass.py" />
       </list>
     </option>
   </component>
@@ -137,24 +118,7 @@
       <pane id="Scratches" />
     </panes>
   </component>
-  <component name="RunManager" selected="Python.staticMethos">
-    <configuration default="false" name="continue_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="practicePython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/continue_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.abstractClass">
     <configuration default="false" name="classSample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,6 +183,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="practicePython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/staticMethos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="abstractClass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="practicePython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abstractClass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -358,19 +339,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.continue_1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.classSample" />
-      <item index="2" class="java.lang.String" itemvalue="Python.boundMethod" />
-      <item index="3" class="java.lang.String" itemvalue="Python.classMethos" />
-      <item index="4" class="java.lang.String" itemvalue="Python.staticMethos" />
+      <item index="0" class="java.lang.String" itemvalue="Python.classSample" />
+      <item index="1" class="java.lang.String" itemvalue="Python.boundMethod" />
+      <item index="2" class="java.lang.String" itemvalue="Python.classMethos" />
+      <item index="3" class="java.lang.String" itemvalue="Python.staticMethos" />
+      <item index="4" class="java.lang.String" itemvalue="Python.abstractClass" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.staticMethos" />
-        <item index="1" class="java.lang.String" itemvalue="Python.classMethos" />
-        <item index="2" class="java.lang.String" itemvalue="Python.boundMethod" />
-        <item index="3" class="java.lang.String" itemvalue="Python.classSample" />
-        <item index="4" class="java.lang.String" itemvalue="Python.continue_1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.abstractClass" />
+        <item index="1" class="java.lang.String" itemvalue="Python.staticMethos" />
+        <item index="2" class="java.lang.String" itemvalue="Python.classMethos" />
+        <item index="3" class="java.lang.String" itemvalue="Python.boundMethod" />
+        <item index="4" class="java.lang.String" itemvalue="Python.classSample" />
       </list>
     </recent_temporary>
   </component>
@@ -543,6 +524,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/staticMethos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/classMethos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -551,10 +540,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/staticMethos.py">
+    <entry file="file://$PROJECT_DIR$/abstractClass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="255">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding />
         </state>
       </provider>
