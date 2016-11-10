@@ -21,73 +21,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="firstFile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstFile.py">
+      <file leaf-file-name="classExample.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classExample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-                <marker date="1478752769148" expanded="true" signature="70:129" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="threadFile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/threadFile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="poolFile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poolFile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="poolEnhanced.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poolEnhanced.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="firstClass.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstClass.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="threadingInClass.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/threadingInClass.py">
+      <file leaf-file-name="ClassExampleCont.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClassExampleCont.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="classExample2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classExample2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="continue.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/continue.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="continue_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/continue_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="classSample.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classSample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,6 +100,12 @@
         <option value="$PROJECT_DIR$/poolEnhanced.py" />
         <option value="$PROJECT_DIR$/firstClass.py" />
         <option value="$PROJECT_DIR$/threadingInClass.py" />
+        <option value="$PROJECT_DIR$/classExample.py" />
+        <option value="$PROJECT_DIR$/ClassExampleCont.py" />
+        <option value="$PROJECT_DIR$/classExample2.py" />
+        <option value="$PROJECT_DIR$/continue.py" />
+        <option value="$PROJECT_DIR$/continue_1.py" />
+        <option value="$PROJECT_DIR$/classSample.py" />
       </list>
     </option>
   </component>
@@ -169,8 +164,8 @@
       <pane id="Scratches" />
     </panes>
   </component>
-  <component name="RunManager" selected="Python.threadingInClass">
-    <configuration default="false" name="threadFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.classSample">
+    <configuration default="false" name="ClassExampleCont" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -182,12 +177,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="practicePython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threadFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassExampleCont.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="poolFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="classExample2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -199,12 +194,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="practicePython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poolFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classExample2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="poolEnhanced" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="continue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -216,12 +211,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="practicePython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poolEnhanced.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/continue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="firstClass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="continue_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -233,12 +228,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="practicePython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/firstClass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/continue_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="threadingInClass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="classSample" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -250,7 +245,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="practicePython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/threadingInClass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classSample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -390,19 +385,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.threadFile" />
-      <item index="1" class="java.lang.String" itemvalue="Python.poolFile" />
-      <item index="2" class="java.lang.String" itemvalue="Python.poolEnhanced" />
-      <item index="3" class="java.lang.String" itemvalue="Python.firstClass" />
-      <item index="4" class="java.lang.String" itemvalue="Python.threadingInClass" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ClassExampleCont" />
+      <item index="1" class="java.lang.String" itemvalue="Python.classExample2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.continue" />
+      <item index="3" class="java.lang.String" itemvalue="Python.continue_1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.classSample" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.threadingInClass" />
-        <item index="1" class="java.lang.String" itemvalue="Python.firstClass" />
-        <item index="2" class="java.lang.String" itemvalue="Python.poolEnhanced" />
-        <item index="3" class="java.lang.String" itemvalue="Python.poolFile" />
-        <item index="4" class="java.lang.String" itemvalue="Python.threadFile" />
+        <item index="0" class="java.lang.String" itemvalue="Python.classSample" />
+        <item index="1" class="java.lang.String" itemvalue="Python.continue_1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.continue" />
+        <item index="3" class="java.lang.String" itemvalue="Python.classExample2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ClassExampleCont" />
       </list>
     </recent_temporary>
   </component>
@@ -501,6 +496,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/classExample2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassExampleCont.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/firstClass.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -516,6 +527,38 @@
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/continue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/continue_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classSample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
