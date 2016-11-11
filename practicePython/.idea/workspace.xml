@@ -21,21 +21,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="moreDb.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moreDb.py">
+      <file leaf-file-name="socketProgramming.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/socketProgramming.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="272">
+              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <folding>
+                <element signature="e#21#34#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="moreDB_1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/moreDB_1.py">
+      <file leaf-file-name="client.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -87,6 +89,8 @@
         <option value="$PROJECT_DIR$/moreDecorators.py" />
         <option value="$PROJECT_DIR$/moreDb.py" />
         <option value="$PROJECT_DIR$/moreDB_1.py" />
+        <option value="$PROJECT_DIR$/client.py" />
+        <option value="$PROJECT_DIR$/socketProgramming.py" />
       </list>
     </option>
   </component>
@@ -145,41 +149,7 @@
       <pane id="Scratches" />
     </panes>
   </component>
-  <component name="RunManager" selected="Python.moreGenerators">
-    <configuration default="false" name="closures" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="practicePython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/closures.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="myFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="practicePython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myFile.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.client">
     <configuration default="false" name="database" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,6 +197,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="practicePython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moreGenerators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="socketProgramming" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="practicePython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/socketProgramming.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="practicePython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -366,19 +370,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.closures" />
-      <item index="1" class="java.lang.String" itemvalue="Python.myFile" />
-      <item index="2" class="java.lang.String" itemvalue="Python.database" />
-      <item index="3" class="java.lang.String" itemvalue="Python.database_1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.moreGenerators" />
+      <item index="0" class="java.lang.String" itemvalue="Python.database" />
+      <item index="1" class="java.lang.String" itemvalue="Python.database_1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.moreGenerators" />
+      <item index="3" class="java.lang.String" itemvalue="Python.socketProgramming" />
+      <item index="4" class="java.lang.String" itemvalue="Python.client" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.moreGenerators" />
-        <item index="1" class="java.lang.String" itemvalue="Python.database_1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.database" />
-        <item index="3" class="java.lang.String" itemvalue="Python.myFile" />
-        <item index="4" class="java.lang.String" itemvalue="Python.closures" />
+        <item index="0" class="java.lang.String" itemvalue="Python.client" />
+        <item index="1" class="java.lang.String" itemvalue="Python.socketProgramming" />
+        <item index="2" class="java.lang.String" itemvalue="Python.moreGenerators" />
+        <item index="3" class="java.lang.String" itemvalue="Python.database_1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.database" />
       </list>
     </recent_temporary>
   </component>
@@ -704,6 +708,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/moreDB_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/moreDb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -712,10 +724,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/moreDB_1.py">
+    <entry file="file://$PROJECT_DIR$/socketProgramming.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="e#21#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
