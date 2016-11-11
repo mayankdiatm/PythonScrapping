@@ -5,7 +5,7 @@ from multiprocessing import Process
 
 ip1 = socket.gethostbyname("localhost")
 ip2 = socket.gethostname()
-ip1 = "10.103.0.134"
+#ip1 = "10.103.0.134"
 port = 12340
 
 def job1(client,name):
