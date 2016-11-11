@@ -31,12 +31,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SOAP.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SOAP.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SOAP.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="10" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RestAPIs.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RestAPIs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,6 +111,7 @@
         <option value="$PROJECT_DIR$/urllib.py" />
         <option value="$PROJECT_DIR$/urllib_1.py" />
         <option value="$PROJECT_DIR$/SOAP.py" />
+        <option value="$PROJECT_DIR$/RestAPIs.py" />
       </list>
     </option>
   </component>
@@ -833,6 +846,16 @@
         <state relative-caret-position="102">
           <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RestAPIs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
