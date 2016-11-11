@@ -19,20 +19,17 @@ tasks = [
 ]
 
 
-#@app.route('/todo/api/v1.0/createtasks', methods=['GET','POST'])
-@app.route('/todo/api/v1.0/createtasks', methods=['POST'])
+@app.route('/todo/api/v1.0/createtasks', methods=['GET','POST'])
+#@app.route('/todo/api/v1.0/createtasks', methods=['POST'])
 def createtasks():
-    #return jsonify({"Hello": "ssss"})
-    #if not request.json or not 'title' in request.json:
-    #    abort(400)
     task = {
         'id': tasks[-1]['id'] + 1,
-        'title': request.json['title'],
-        'descr': request.json.get('descr', ""),
+        'title': "C++",
+        'descr': "begginers code ",
         'done': False
     }
     tasks.append(task)
-    return jsonify({'task': task}), 201
+    return jsonify({'task': tasks}), 201
 
 @app.errorhandler(404)
 def not_found(error):
