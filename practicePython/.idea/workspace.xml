@@ -21,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="database_1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="database_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database_1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moreGenerators.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/moreGenerators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -71,6 +81,7 @@
         <option value="$PROJECT_DIR$/myMath.py" />
         <option value="$PROJECT_DIR$/database.py" />
         <option value="$PROJECT_DIR$/database_1.py" />
+        <option value="$PROJECT_DIR$/moreGenerators.py" />
       </list>
     </option>
   </component>
@@ -129,24 +140,7 @@
       <pane id="Scratches" />
     </panes>
   </component>
-  <component name="RunManager" selected="Python.database_1">
-    <configuration default="false" name="iterator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="practicePython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.moreGenerators">
     <configuration default="false" name="closures" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,6 +205,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="practicePython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="moreGenerators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="practicePython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moreGenerators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -350,19 +361,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.iterator" />
-      <item index="1" class="java.lang.String" itemvalue="Python.closures" />
-      <item index="2" class="java.lang.String" itemvalue="Python.myFile" />
-      <item index="3" class="java.lang.String" itemvalue="Python.database" />
-      <item index="4" class="java.lang.String" itemvalue="Python.database_1" />
+      <item index="0" class="java.lang.String" itemvalue="Python.closures" />
+      <item index="1" class="java.lang.String" itemvalue="Python.myFile" />
+      <item index="2" class="java.lang.String" itemvalue="Python.database" />
+      <item index="3" class="java.lang.String" itemvalue="Python.database_1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.moreGenerators" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.database_1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.database" />
-        <item index="2" class="java.lang.String" itemvalue="Python.myFile" />
-        <item index="3" class="java.lang.String" itemvalue="Python.closures" />
-        <item index="4" class="java.lang.String" itemvalue="Python.iterator" />
+        <item index="0" class="java.lang.String" itemvalue="Python.moreGenerators" />
+        <item index="1" class="java.lang.String" itemvalue="Python.database_1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.database" />
+        <item index="3" class="java.lang.String" itemvalue="Python.myFile" />
+        <item index="4" class="java.lang.String" itemvalue="Python.closures" />
       </list>
     </recent_temporary>
   </component>
@@ -641,6 +652,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moreGenerators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
